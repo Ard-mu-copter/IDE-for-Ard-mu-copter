@@ -1,0 +1,7 @@
+This is IDE for developing Ard-mu-copter:
+
+1. Unzip Ard-mu-copter.zip 
+
+2. Change your "File-> Preferences" to  unzipfile path\book\
+
+3. Compile and upload to APM 2.52 or 2.6
